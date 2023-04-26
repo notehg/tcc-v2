@@ -14,7 +14,10 @@ p{
     width: 50%;
 }
 
-Form{
-   display: flex;
-    align-items: center;
+#Login{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
 }
